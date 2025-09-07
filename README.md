@@ -60,3 +60,4 @@ El sistema usará siempre las funciones Python para los cálculos, garantizando 
 
 Ejercicio desarrollado para la clase de MCP (Multiagent Conversational Programming).  
 Autor: Javi Lázaro
+email: [hola@javilazaro.es](mailto:hola@javilazaro.es)
